@@ -34,4 +34,12 @@
     font-weight: 400;
 }
 
+.number_field {
+    font-family: Book Antiqua, sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    color: gold;
+    font-weight: 600;
+}
+
 

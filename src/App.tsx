@@ -28,7 +28,7 @@ function App() {
         []
 
     const columns: GridColDef[] = [
-        {field: '_id', headerName: '№', width: 60,},
+        {field: '_id', headerName: '№', width: 60, cellClassName:"number_field"},
         {
             field: 'photoURL',
             headerName: 'Photo',
